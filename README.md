@@ -1,7 +1,10 @@
 # ABP_Sweet-Ice-Cream
+## Introducción.
 - Escribir sobre el contexto de su solución:
   
-En nuestra heladería, Sweet Ice Cream, se basa en una base de datos que permite gestionar de manera eficiente la información de los clientes, los pedidos y los productos. Donde los clientes pueden realizar pedidos que se registran con detalles específicos de cada producto, permitiendo un control preciso de inventarios y ventas. Nuestra heladería puede mantener un seguimiento de las transacciones, gestionar el estado de los pedidos y ofrecer un servicio personalizado a sus clientes. Este sistema facilita la administración diaria y mejora la eficiencia operativa de la heladería.
+Sweet Ice Cream es una heladería que se apoya en una base de datos eficiente para gestionar de manera integral la información de clientes, pedidos y productos. Este sistema nos permite no solo registrar detalladamente cada pedido para un control preciso de inventarios y ventas, sino también ofrecer un servicio altamente personalizado que se adapta a las preferencias individuales de nuestros clientes.
+
+Con nuestra capacidad para realizar un seguimiento meticuloso de cada transacción y gestionar en tiempo real el estado de los pedidos, garantizamos una experiencia fluida y satisfactoria para nuestros clientes. Además, utilizamos análisis de datos para identificar tendencias de consumo, lo cual nos permite ajustar estratégicamente nuestra oferta de productos y mantenernos a la vanguardia en la industria de heladerías.
 
 ## Modelo Relacional.
 - Adjuntar Modelo:
