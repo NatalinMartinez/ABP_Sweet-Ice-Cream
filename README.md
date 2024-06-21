@@ -1,6 +1,6 @@
 # ABP_Sweet-Ice-Cream
 - Escribir sobre el contexto de su solución:
-
+En una heladería, este modelo de base de datos permite gestionar de manera eficiente la información de los clientes, los pedidos y los productos. Los clientes pueden realizar pedidos que se registran con detalles específicos de cada producto, permitiendo un control preciso de inventarios y ventas. La heladería puede mantener un seguimiento de las transacciones, gestionar el estado de los pedidos y ofrecer un servicio personalizado a sus clientes. Este sistema facilita la administración diaria y mejora la eficiencia operativa de la heladería.
 
 ## Modelo Relacional.
 - Adjuntar Modelo:
