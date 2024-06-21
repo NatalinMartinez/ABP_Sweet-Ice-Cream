@@ -4,8 +4,7 @@ Escribir sobre el contexto de su solución.
 - Adjuntar Modelo.
 
 ## Desarrolle propuesta.
-```Escribir sobre la solución a realizar.
-```
+Escribir sobre la solución a realizar.
 
 **Embalaje Adecuado:**  
 
