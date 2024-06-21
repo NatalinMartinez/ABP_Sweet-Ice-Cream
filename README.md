@@ -1,12 +1,14 @@
 # ABP_Sweet-Ice-Cream
-Escribir sobre el contexto de su solución.
+- Escribir sobre el contexto de su solución:
+
+
 ## Modelo Relacional.
-Adjuntar Modelo.
+- Adjuntar Modelo:
 
 ![image](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/assets/173188151/23518a05-3124-4340-a1d6-8908a34eb707)
 
 ## Desarrolle propuesta.
-Escribir sobre la solución a realizar.
+- Escribir sobre la solución a realizar:
 
 **Embalaje Adecuado:**  
 
