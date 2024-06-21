@@ -5,6 +5,7 @@ Adjuntar Modelo.
 
 ## Desarrolle propuesta.
 Escribir sobre la solución a realizar.
+
 ![image](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/assets/173188151/23518a05-3124-4340-a1d6-8908a34eb707)
 
 **Embalaje Adecuado:**  
