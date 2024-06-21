@@ -1,7 +1,7 @@
 # ABP_Sweet-Ice-Cream
 Escribir sobre el contexto de su solución.
 ## Modelo Relacional.
-- Adjuntar Modelo.
+Adjuntar Modelo.
 
 ## Desarrolle propuesta.
 Escribir sobre la solución a realizar.
