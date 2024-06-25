@@ -38,3 +38,4 @@ Cada producto en nuestra plataforma digital está acompañado de descripciones d
  5. **Filtrado y Categorización Intuitiva:**   
 
 Nuestra interfaz permite a los usuarios filtrar los helados por categorías como sabores clásicos y ediciones especiales. Esto facilita encontrar exactamente lo que están buscando de manera rápida y eficiente.
+</p>
