@@ -1,25 +1,24 @@
 # ABP_Sweet-Ice-Cream
 ## *Descripción*
-<p align="center">
+<p style="text-align: justify;">
 Realizamos este proyecto de heladería digital porque creemos en combinar la pasión por los sabores artesanales con la conveniencia digital. Queremos ofrecerte una experiencia única donde puedas pedir a domicilio tu helado y disfrutarlo desde la comodidad de tu hogar o donde quiera que estés. 
 </p>
 
 ## *Introducción.*
-<p align="center">
 - Escribir sobre el contexto de su solución:
-  
+<p style="text-align: justify;">
 Sweet Ice Cream ha desarrollado una solución tecnológica avanzada mediante la implementación de una base de datos relacional para optimizar la gestión de su negocio. Esta base de datos integra información crítica de clientes, pedidos y productos, permitiendo un control preciso de inventarios y ventas. A través de la tabla de clientes, la heladería puede almacenar detalles personales y preferencias, ofreciendo un servicio personalizado. La gestión de pedidos y sus detalles asegura un seguimiento exhaustivo de cada transacción en tiempo real, mejorando la eficiencia operativa. La tabla de productos facilita la administración del catálogo y los precios, garantizando una oferta actualizada y competitiva. Esta solución integral no solo mejora la experiencia del cliente, sino que también permite a Sweet Ice Cream realizar análisis de datos para identificar tendencias de consumo y ajustar estratégicamente su oferta, manteniéndose a la vanguardia en el sector.
 </p>
 
 ## *Modelo Relacional.*
-<p align="center">
+<p style="text-align: justify;">
 - Adjuntar Modelo:
 
 ![image](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/assets/173188151/23518a05-3124-4340-a1d6-8908a34eb707)
 </p>
 
 ## *Desarrolle propuesta.*
-<p align="center">
+<p style="text-align: justify;">
 - Escribir sobre la solución a realizar:
 
 1. **Embalaje Adecuado:**  
