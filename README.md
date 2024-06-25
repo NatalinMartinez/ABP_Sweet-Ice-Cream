@@ -12,7 +12,8 @@ Sweet Ice Cream ha desarrollado una solución tecnológica avanzada mediante la 
 - Adjuntar Modelo:
 
 ![image](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/assets/173188151/23518a05-3124-4340-a1d6-8908a34eb707)
-[Modelo Relacional]([ABP](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/commit/4fac2138bf63a9f1931d94021a9468317a9062b4))
+
+[Modelo Relacional]([ABP](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/commit/4fac2138bf63a9f1931d94021a9468317a9062b4)
 
 ## *Desarrolle propuesta.*
 - Escribir sobre la solución a realizar:
