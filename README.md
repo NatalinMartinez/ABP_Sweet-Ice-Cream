@@ -14,7 +14,7 @@ Con nuestra capacidad para realizar un seguimiento meticuloso de cada transacci√
 
 ![image](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/assets/173188151/23518a05-3124-4340-a1d6-8908a34eb707)
 
-## Desarrolle propuesta.
+## *Desarrolle propuesta.*
 - Escribir sobre la soluci√≥n a realizar:
 
 **Embalaje Adecuado:**  
