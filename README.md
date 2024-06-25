@@ -5,9 +5,7 @@ Realizamos este proyecto de heladería digital porque creemos en combinar la pas
 ## *Introducción.*
 - Escribir sobre el contexto de su solución:
   
-Sweet Ice Cream es una heladería que se apoya en una base de datos eficiente para gestionar de manera integral la información de clientes, pedidos y productos. Este sistema nos permite no solo registrar detalladamente cada pedido para un control preciso de inventarios y ventas, sino también ofrecer un servicio altamente personalizado que se adapta a las preferencias individuales de nuestros clientes.
-
-Con nuestra capacidad para realizar un seguimiento meticuloso de cada transacción y gestionar en tiempo real el estado de los pedidos, garantizamos una experiencia fluida y satisfactoria para nuestros clientes. Además, utilizamos análisis de datos para identificar tendencias de consumo, lo cual nos permite ajustar estratégicamente nuestra oferta de productos y mantenernos a la vanguardia en la industria de heladerías.
+Sweet Ice Cream ha desarrollado una solución tecnológica avanzada mediante la implementación de una base de datos relacional para optimizar la gestión de su negocio. Esta base de datos integra información crítica de clientes, pedidos y productos, permitiendo un control preciso de inventarios y ventas. A través de la tabla de clientes, la heladería puede almacenar detalles personales y preferencias, ofreciendo un servicio personalizado. La gestión de pedidos y sus detalles asegura un seguimiento exhaustivo de cada transacción en tiempo real, mejorando la eficiencia operativa. La tabla de productos facilita la administración del catálogo y los precios, garantizando una oferta actualizada y competitiva. Esta solución integral no solo mejora la experiencia del cliente, sino que también permite a Sweet Ice Cream realizar análisis de datos para identificar tendencias de consumo y ajustar estratégicamente su oferta, manteniéndose a la vanguardia en el sector.
 
 ## *Modelo Relacional.*
 - Adjuntar Modelo:
