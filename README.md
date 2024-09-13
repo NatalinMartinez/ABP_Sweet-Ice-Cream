@@ -65,7 +65,10 @@ Con este enfoque, buscamos fusionar nuestra pasión por los sabores artesanales 
    Corre el archivo principal main.py usando el comando python main.py. Esto iniciará el menú principal de la aplicación.
 
 **Funciones Principales:**
- 
+   _-Gestión de Clientes:_ Accede a las opciones para registrar nuevos clientes o visualizar la lista de clientes ya registrados.
+   _-Gestión de Productos:_ Revisa el menú de productos, agrega nuevos productos o consulta los productos registrados.
+   _-Gestión de Ventas:_ Realiza ventas, donde puedes seleccionar un cliente y producto, y genera una factura. También puedes consultar las ventas realizadas.
+   _-Gestión de Pedidos:_ Agrega nuevos pedidos, elige productos para cada pedido y determina el tipo de entrega. Consulta los pedidos realizados.
 
 **Interfaz de Usuario:**
    _-Menú Principal:_ Usa el menú principal para navegar entre clientes, productos, ventas y pedidos.
