@@ -77,7 +77,8 @@ Con este enfoque, buscamos fusionar nuestra pasión por los sabores artesanales 
 
 ## Proyecto*
 [Python](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/Heladeria.zip)
-[MySQL]([https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/Heladeria.zip](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/ABP_PBD.sql))
+
+[MySQL](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/ABP_PBD.sql)
 
 
 ## *Contribuciones.*
