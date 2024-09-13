@@ -80,13 +80,4 @@ Con este enfoque, buscamos fusionar nuestra pasión por los sabores artesanales 
 [MySQL](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/ABP_PBD.sql)
 
 
-## *Contribuciones.*
-🟢 **Chacha:** Codificacion de Python (Gestíon de Clientes y Productos)
 
-🔵 **Martinez:** MySQL
-
-🟡 **Mendieta:** Menú de Productos 
-
-🟣 **Molina:** Codificacion de Python (Gestíon de Ventas, pedidos y las subopciones de la misma)
-
-🔴 **Tubay:** MySQL
