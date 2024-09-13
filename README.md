@@ -76,7 +76,11 @@ Con este enfoque, buscamos fusionar nuestra pasión por los sabores artesanales 
 
 ## *Contribuciones.*
 🟢 **Chacha:** Codificacion de Python (Gestíon de Clientes y Productos)
-🔵 **Martinez:** MySQL 
+
+🔵 **Martinez:** MySQL
+
 🟡 **Mendieta:** Menú de Productos 
+
 🟣 **Molina:** Codificacion de Python (Gestíon de Ventas, pedidos y las subopciones de la misma)
+
 🔴 **Tubay:** MySQL
