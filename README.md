@@ -1,5 +1,4 @@
-ñAw11368Ahjljj23hjffdnbnddncfdfbdbhnd389
-# ABP_Sweet-Ice-Cream
+ # ABP_Sweet-Ice-Cream
 _Desarrollo de una aplicación en Phyton_
 ## *Descripción*
    Este proyecto tiene como objetivo desarrollar una aplicación en Python para automatizar la gestión de nuestra heladería digital. Mediante un análisis detallado, se identificarán los requerimientos y necesidades del sistema, como los tipos de datos a manejar (clientes, productos, ventas, pedidos y menús), la lógica de negocio y las funcionalidades clave.
