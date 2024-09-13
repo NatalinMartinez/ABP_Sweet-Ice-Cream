@@ -75,6 +75,11 @@ Con este enfoque, buscamos fusionar nuestra pasión por los sabores artesanales 
    _-Menú Principal:_ Usa el menú principal para navegar entre clientes, productos, ventas y pedidos.
    _-Validaciones:_ La aplicación validará entradas como ID de cliente o producto, y mostrará mensajes si los datos no son válidos.
 
+## Proyecto*
+[Python](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/Heladeria.zip)
+[MySQL]([https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/Heladeria.zip](https://github.com/NatalinMartinez/ABP_Sweet-Ice-Cream/blob/main/ABP/ABP_PBD.sql))
+
+
 ## *Contribuciones.*
 🟢 **Chacha:** Codificacion de Python (Gestíon de Clientes y Productos)
 
