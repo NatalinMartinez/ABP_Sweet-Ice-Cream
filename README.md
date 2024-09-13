@@ -75,7 +75,8 @@ Con este enfoque, buscamos fusionar nuestra pasión por los sabores artesanales 
    _-Validaciones:_ La aplicación validará entradas como ID de cliente o producto, y mostrará mensajes si los datos no son válidos.
 
 ## *Contribuciones.*
-<span style="color: blue;">**Chacha:**</span> Codificacion de Python (Gestíon de Clientes y Productos)
+<span style="color: blue;">**Chacha:**</span> 
+Codificacion de Python (Gestíon de Clientes y Productos)
 **Martinez:** MySQL 
 **Mendieta:** Menú de Productos 
 **Molina:** Codificacion de Python (Gestíon de Ventas, pedidos y las subopciones de la misma)
