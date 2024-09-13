@@ -1,5 +1,5 @@
 # ABP_Sweet-Ice-Cream
-__Desarrollo de una aplicación en Phyton_
+_Desarrollo de una aplicación en Phyton_
 ## *Descripción*
    Este proyecto tiene como objetivo desarrollar una aplicación en Python para automatizar la gestión de nuestra heladería digital. Mediante un análisis detallado, se identificarán los requerimientos y necesidades del sistema, como los tipos de datos a manejar (clientes, productos, ventas, pedidos y menús), la lógica de negocio y las funcionalidades clave.
 
@@ -65,14 +65,14 @@ Con este enfoque, buscamos fusionar nuestra pasión por los sabores artesanales 
    Corre el archivo principal main.py usando el comando python main.py. Esto iniciará el menú principal de la aplicación.
 
 **Funciones Principales:**
-   __-Gestión de Clientes:_ Accede a las opciones para registrar nuevos clientes o visualizar la lista de clientes ya registrados.
-   __-Gestión de Productos:_ Revisa el menú de productos, agrega nuevos productos o consulta los productos registrados.
-   __-Gestión de Ventas:_ Realiza ventas, donde puedes seleccionar un cliente y producto, y genera una factura. También puedes consultar las ventas realizadas.
-   __-Gestión de Pedidos:_ Agrega nuevos pedidos, elige productos para cada pedido y determina el tipo de entrega. Consulta los pedidos realizados.
+   _-Gestión de Clientes:_ Accede a las opciones para registrar nuevos clientes o visualizar la lista de clientes ya registrados.
+   _-Gestión de Productos:_ Revisa el menú de productos, agrega nuevos productos o consulta los productos registrados.
+   _-Gestión de Ventas:_ Realiza ventas, donde puedes seleccionar un cliente y producto, y genera una factura. También puedes consultar las ventas realizadas.
+   _-Gestión de Pedidos:_ Agrega nuevos pedidos, elige productos para cada pedido y determina el tipo de entrega. Consulta los pedidos realizados.
 
 **Interfaz de Usuario:**
-   __-Menú Principal:_ Usa el menú principal para navegar entre clientes, productos, ventas y pedidos.
-   __-Validaciones:_ La aplicación validará entradas como ID de cliente o producto, y mostrará mensajes si los datos no son válidos.
+   _-Menú Principal:_ Usa el menú principal para navegar entre clientes, productos, ventas y pedidos.
+   _-Validaciones:_ La aplicación validará entradas como ID de cliente o producto, y mostrará mensajes si los datos no son válidos.
 
 ## *Contribuciones.*
 **Chacha:** Codificacion de Python (Gestíon de Clientes y Productos)
