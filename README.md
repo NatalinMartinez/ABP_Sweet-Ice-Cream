@@ -48,3 +48,35 @@ Cada producto en nuestra plataforma digital está acompañado de descripciones d
  5. **Filtrado y Categorización Intuitiva:**   
 
 Nuestra interfaz permite a los usuarios filtrar los helados por categorías como sabores clásicos y ediciones especiales. Esto facilita encontrar exactamente lo que están buscando de manera rápida y eficiente.
+
+
+## *Programa con acceso a datos.*
+La aplicación de la heladería se organizará utilizando una arquitectura Modelo-Vista-Controlador (MVC). El Modelo gestionará los datos y la lógica de negocio, incluyendo clases para clientes, productos, ventas y pedidos. La Vista proporcionará la interfaz de usuario, y el Controlador manejará la interacción entre la vista y el modelo.
+
+La base de datos será MySQL, con tablas para clientes, productos, ventas y pedidos. Cada tabla almacenará datos específicos y estarán relacionadas mediante claves foráneas. La interacción con la base de datos se realizará a través de un ORM en Python, para simplificar las operaciones de lectura y escritura, asegurando un manejo eficiente y seguro de los datos.
+
+## *Guía de cómo se utiliza la aplicación.*
+
+**Instalación:**
+Requisitos Previos: Asegúrate de tener Python y MySQL instalados en tu sistema.
+Configuración de la Base de Datos: Crea una base de datos en MySQL con las tablas necesarias (clientes, productos, ventas, pedidos).
+
+**Ejecutar la Aplicación:** 
+Corre el archivo principal main.py usando el comando python main.py. Esto iniciará el menú principal de la aplicación.
+
+**Funciones Principales:**
+-Gestión de Clientes: Accede a las opciones para registrar nuevos clientes o visualizar la lista de clientes ya registrados.
+-Gestión de Productos: Revisa el menú de productos, agrega nuevos productos o consulta los productos registrados.
+-Gestión de Ventas: Realiza ventas, donde puedes seleccionar un cliente y producto, y genera una factura. También puedes consultar las ventas realizadas.
+-Gestión de Pedidos: Agrega nuevos pedidos, elige productos para cada pedido y determina el tipo de entrega. Consulta los pedidos realizados.
+
+**Interfaz de Usuario:**
+-Menú Principal: Usa el menú principal para navegar entre clientes, productos, ventas y pedidos.
+-Validaciones: La aplicación validará entradas como ID de cliente o producto, y mostrará mensajes si los datos no son válidos.
+
+## *Contribuciones.*
+Chacha: Codificacion de Python (Gestíon de Clientes y Productos)
+Martinez: MySQL 
+Mendieta: Menú de Productos 
+Molina: Codificacion de Python (Gestíon de Ventas, pedidos y las subopciones de la misma)
+Tubay: MySQL
